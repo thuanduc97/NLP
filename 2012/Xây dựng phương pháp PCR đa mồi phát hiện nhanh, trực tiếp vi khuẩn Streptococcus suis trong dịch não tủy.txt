@@ -1,0 +1,22 @@
+Trang: 12
+
+Tập XXII, số 7 (134) 2012
+
+Xây dựng phương pháp PCR đa mồi phát hiện nhanh, trực tiếp vi khuẩn Streptococcus suis trong dịch não tủy
+
+Establish Multiplex PCR for direct detection of Streptococcus suis from cerebrospinal fluid
+
+Tác giả: Phan Lê Thanh Hương, Đặng Thị Kiều Oanh, Nguyễn Thị Phong Lan, Đinh Thế Phôi, Đặng Đức Anh
+
+Tóm tắt:
+
+Đáp ứng nhu cầu chẩn đoán nhanh, chính xác vi khuẩn Streptococcus suis (liên cầu lợn) và một số đặc tính cơ bản của vi khuẩn gây bệnh viêm màng não mủ (VMNM) tăng hiệu quả giám sát dịch bệnh, chúng tôi đã nghiên cứu xây dựng quy trình PCR đa mồi phát hiện đồng thời và trực tiếp từ bệnh phẩm người (máu, dịch não tủy) vi khuẩn S. suis và một số yếu tố cơ bản của vi khuẩn. Kết quả nghiên cứu đã xác định được một tổ hợp gen mồi đạt yêu cầu về độ nhạy và đặc hiệu, một chương trình PCR đa mồi thích hợp. Với phương pháp chẩn đoán này: giới hạn phát hiện được vi khuẩn và một số yếu tố cơ bản của vi khuẩn đạt từ 1 vi khuẩn trong 1 ống phản ứng (≥ 1vi khuẩn/1 pư). Phương pháp có tính đặc hiệu cao và kết quả phát hiện luôn ổn định (độ lặp lại 100%).
+
+Summary:
+
+In order to respond to the requirement of rapidly accurate diagnosis of Streptococcus suis and some key pathogenic elements of the bacteria causing meningitis to enhance capability in the pathogen surveillance. We established multiplex PCR that simultaneously detect S. suis and their key pathogenic elements from human specimens directly (blood, cerebrospinal fluid). The results we have got: one combination of specific primer pairs that meet criteria for specificity and sensitivity, one optimal procedure for multiplex PCR. The detectable limit of the multiplex PCR is about 1 cfu per 1 reaction (≥ detected 1 copy /1 reaction), the specificity meets requirement (non-cross reaction) and high repetitiveness (100%).
+
+File nội dung:
+
+yhdp_origin12_7_2012.pdf
+

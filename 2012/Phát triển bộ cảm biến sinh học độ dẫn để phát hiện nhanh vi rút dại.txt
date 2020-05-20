@@ -1,0 +1,22 @@
+Trang: 217
+
+Tập XXII, số 8 (135) 2012
+
+Phát triển bộ cảm biến sinh học độ dẫn để phát hiện nhanh vi rút dại
+
+Development of a conductometric biosensor for rapid detection of rabies virus
+
+Tác giả: Trần Quang Huy, Nguyễn Thanh Thủy, Phạm Văn Chung, Trần Minh Hiền, Nguyễn Tuyết Thu, Ngô Châu Giang, Nguyễn Vĩnh Đông, Nguyễn Thị Hồng Hạnh, Nguyễn Thị Kiều Anh
+
+Tóm tắt:
+
+Bài báo này giới thiệu một loại cảm biến sinh học có khả năng phát hiện nhanh vi rút dại, được phát triển trên các vi điện cực đan xen và đo tín hiệu thông qua sự thay đổi độ dẫn bề mặt. Kháng thể IgG kháng vi rút dại được cố định lên bề mặt vi điện cực Platin (Pt) làm phần tử dò, thông qua lớp protein A gắn enzym HRP (horseradish peroxidase). Nguyên lý hoạt động của cảm biến dựa trên phản ứng giữa kháng nguyên vi rút dại trong dung dịch và kháng thể cố định trên bề mặt điện cực, phản ứng này hình thành một phức hợp miễn dịch ngăn cản sự trao đổi điện tử trực tiếp giữa enzym HRP và điện cực, dẫn đến sự thay đổi độ dẫn bề mặt. Tín hiệu đo bởi bộ khuếch đại Lock-in RS-830 trong dung dịch dẫn được tối ưu các thông số. Kết quả cho thấy cảm biến có độ nhạy và độ đặc hiệu cao, có khả năng phát hiện vi rút dại trong điều kiện phòng thí nghiệm với giới hạn 2,25 x 102 FFU/ml, thời gian phát hiện khoảng 25 phút
+
+Summary:
+
+This paper presents an effective biosensor based on the interdigitated microelectrodes and conductometric measurements for rapid detection of rabies virus. Firstly, 1μg/mL of anti-rabies IgG antibody was immobilized onto the Pt microelectrodes as probe, via protein A labeled with horseradish peroxidase (HRP). The mechanism of detection based on the specific immunoreaction of antibody immobilized on the microelectrode and rabies virus antigens in solution which could form a complex in order to bar direct electron communication between HRP and the surface of the microelectrode, and resulted in variation of local conductivity These signal changes could be measured easily by the Lock-in RS-830 amplifier in optimized conductive solution. The experimental results exhibited a good conductometric response corresponding to rabies virus concentration with a limit of detection as low as 2.25 x 102 FFU/ml, and detection time was about 25 min. This study has demonstrated the potential development of a simple diagnostic device based on conductometric measurements for rapid and accurate detection of rabies virus in animal and human.
+
+File nội dung:
+
+yhdp_origin217_8_2012.pdf
+

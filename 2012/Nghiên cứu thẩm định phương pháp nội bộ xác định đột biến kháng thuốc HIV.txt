@@ -1,0 +1,22 @@
+Trang: 208
+
+Tập XXII, số 8 (135) 2012
+
+Nghiên cứu thẩm định phương pháp nội bộ xác định đột biến kháng thuốc HIV
+
+Validation of the in-house HIV-1 genotyping drug resistance mutation analysis assay
+
+Tác giả: Lưu Phương Quỳnh, Tạ Thị Thu Hồng, Đỗ Huy Dương, Đỗ Thị Diễm Trinh, Nguyễn Thùy Linh, Nguyễn Thị Lan Anh
+
+Tóm tắt:
+
+Sử dụng phối hợp các thuốc kháng retrovirus (ARV) đã được chuẩn hóa thành các phác đồ điều trị bệnh nhân AIDS. Trong quá trình điều trị, tình trạng kháng thuốc ARV có thể xảy ra dẫn tới thất bại điều trị. Xét nghiệm xác định đột biến kháng thuốc HIV bằng các bộ sinh phẩm thương mại có giá thành cao, khó được thực hiện thường qui ở những nơi nguồn lực hạn chế. Nghiên cứu này được thực hiện để đánh giá khả năng xác định đột biến kháng thuốc HIV-1 bằng phương pháp nội bộ giải trình tự đoạn gen pol-Protease (pol-PR) và pol-Reverse Transcriptase (pol-RT) trên máy ABI Sequencer 3130, phân tích đột biến, mức độ kháng thuốc dựa trên ngân hàng dữ liệu vi rút HIV, Stanford. Kết quả xét nghiệm hai bộ mẫu ngoại kiểm TAQAS 11 và 12 do National Reference Laboratory (NRL), Australia cung cấp cho thấy phương pháp nội bộ cho kết quả xác định đột biến kháng thuốc và phiên giải mức độ kháng thuốc tương đương phương pháp thương mại TruGene. Với ưu thế giá thành thấp hơn, phương pháp nội bộ có thể áp dụng thay thế cho phương pháp TruGene để đánh giá tình trạng kháng thuốc ARV cho bệnh nhân HIV/AIDS khi có biểu hiện thất bại điều trị ARV về miễn dịch, vi rút ở Việt Nam.
+
+Summary:
+
+The use of combination antiretroviral (ARV) therapy has been standardized in the treatment of HIV/AIDS infection. However, drug resistance might be occurred leading to therapy failure. Evaluation and monitoring of ARV drug resistance using the expensive commercial kit are too difficult to apply routinely in resource-limmited settings. Thus this study aims to validate the in-house assay of HIV-1 genotyping DRMs by sequencing the pol-Protease (pol-PR) and pol-Reverse Transcriptase (pol-RT) regions on ABI Sequencer 3130 system. The sequence data are analyzed against Stanford HIV database. The In-house assay was compared with commercial TruGene HIV-1 Genotyping kit on two EQA panels for HIV-1 genotyping and DRM analysis, TAQAS 11 and 12, which were provided by National Reference Laboratory (NRL), Australia. The results showed that the in-house assay was compatible with the TruGene method in detecting drug resistance mutation and determing drug resistance level. With the highly cost-effectiveness, the in-house HIV-1 genotyping and DRM analysis assay can be a viable alternative to commercial tests to monitor ARV DRM for HIV/AIDS patients.
+
+File nội dung:
+
+yhdp_origin208_8_2012.pdf
+

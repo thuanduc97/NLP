@@ -1,0 +1,22 @@
+Trang: 172
+
+Tập XXII, số 8 (135) 2012
+
+Chẩn đoán nhiễm virus sởi bằng mẫu bệnh phẩm nước bọt
+
+Use of oral fluid as alternative diagnostic sample for measles surveillance
+
+Tác giả: Đỗ Huy Dương, Bùi Thị Lan Anh, Trần Hải Âu, Triệu Thanh Vân, Nguyễn Vũ Trung, Nguyễn Thị Lan Anh
+
+Tóm tắt:
+
+Đánh giá khả năng sử dụng mẫu nước bọt để chẩn đoán nhiễm virus sởi, nghiên cứu được tiến hành trên 30 bệnh nhân nghi nhiễm sởi đến khám và điều trị tại Bệnh viện Bệnh Nhiệt đới Trung ương trong vụ dịch sởi xảy ra tại Hà nội năm 2008-2009. Mẫu máu và mẫu nước bọt cùng được lấy vào một thời điểm, trong vòng 3-4 ngày sau khi có sốt và phát ban. Mẫu nước bọt được lấy bằng que xốp vô trùng OraColTM, bảo quản trong 1,5 ml dung dịch PBS 1X, 0,5% Tween, giữ ở -200C hoặc -800C cho tới khi phân tích. Kháng thể IgM kháng sởi được phát hiện bằng kỹ thuật ELISA sử dụng sinh phẩm Behring Enzygnost anti-Measles IgM với mẫu máu, bằng sinh phẩm Measles IgM Capture EIA với mẫu nước bọt. Kỹ thuật real-time RT-PCR được tối ưu để phát hiện ARN sởi trong mẫu nước bọt. Trong số 23 bệnh nhân được khẳng định nhiễm sởi có 20 bệnh nhân (87%) đồng thời có mẫu nước bọt dương tính với kháng thể IgM. Xét nghiệm phát hiện kháng thể IgM trong mẫu nước bọt và huyết thanh có độ tương đồng khá cao (hệ số ĸ = 0,66). Một số mẫu nước bọt có kháng thể IgM dương tính đã được kiểm tra bằng kỹ thuật real-time RT-PCR đều phát hiện thấy ARN virus sởi (7/7). Các kết quả này cho thấy mẫu nước bọt có thể sử dụng để chẩn đoán nhiễm virus sởi bằng kỹ thuật ELISA, real-time RT-PCR phát hiện kháng thể IgM, ARN virus sởi.
+
+Summary:
+
+To evaluate the use of oral fluid for laboratory confirmation of measles infection, the study was carried out in 30 suspected patients admitted to the National Hospital of Tropical Diseases, during the measles outbreak occurred in Hanoi, in 2008-2009. All patients were taken blood and oral fluid within 3-4 days after fever or rash onset. Oral fluid was collected by OraColTM device, stored in 1.5 ml of PBS 1X, 0.5% Tween, stored at -20 or -80OC until testing Confirmation of measle infection is based on blood test for anti-measle IgM anti-body, using Behring Enzygnost anti- Measles IgM kit. To detect IgM anti-body and measles ARN in oral fluid, Measles IgM Capture EIA and real-time RT-PCR assays were used, respectively. Anti-measles IgM anti-body was detected in oral fluid specimens of 87% of measles confirmed cases. Detection of IgM anti-body in serum and oral fluid was at high agreement level (ĸ = 0.66). Additionally, all oral fluids positive with anti-measles IgM anti-body and tested by real-time RT-PCR were found positive with measles RNA (7/7). These preliminary results show that anti-mealses IgM antibody and RNA are quite stable in oral fluid, therefore, oral fluid sampling would be viable option for measles surveillance.
+
+File nội dung:
+
+yhdp_origin172_8_2012.pdf
+

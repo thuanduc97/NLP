@@ -1,0 +1,22 @@
+Trang: 155
+
+Tập XXII, số 8 (135) 2012
+
+PCR chẩn đoán nhanh, chính xác vi khuẩn Bacillus anthracis trực tiếp từ bệnh phẩm lâm sàng và môi trường
+
+Rapid and sensitive detection of B.anthracis from clinical and environmental samples by direct PCR
+
+Tác giả: Hoàng Thị Thu Hà, Satoshi Ionue, Akiko Okutani, Đặng Đức Anh, Phạm Thanh Hai, Nguyễn Phước My, Nguyễn Thùy Trâm, Nguyễn Trần Hiển
+
+Tóm tắt:
+
+Bệnh than do Vi khuẩn Bacillus anthracis là vi khuẩn gram dương có khả năng hình thành bào tử. Các cá thể nhiễm bệnh than thường biểu hiện tình trạng nhiễm trùng nặng dẫn đến nguy cơ tử vong cao. Việc phát triển phương pháp chẩn đoán nhanh, chính xác vi khuẩn B.anthracis trực tiếp từ bệnh phẩm lâm sàng và môi trường được coi là mục tiêu quan trọng của hoạt động y tế cộng đồng. Trong nghiên cứu này, chúng tôi sử dụng kỹ thuật PCR với các cặp mồi PA5/PA8 và CAP1234/CAP1301 để phát hiện ADN của vi khuẩn B.antracis từ bệnh phẩm lâm sàng. Tám trong số 10 bệnh phẩm da và tăm bông thấm dịch mủ vết thương thu thập trên bệnh nhân đã được xác định dương tính với B.anthracics bằng kỹ thuật PCR đơn mồi. Đồng thời, mẫu đất có chứa ít nhất 103 bào tử than/gram cũng được phát hiện bằng PCR sử dụng cặp mồi Ba 813 thuộc nhiễm sắc thể của vi khuẩn. Do vậy, cần sử dụng phương pháp PCR phát hiện nhanh, chính xác tác nhân trực tiếp từ bệnh phẩm lâm sàng và môi trường nhằm góp phần đảm bảo qui định về an toàn sinh học, đồng thời giảm thiểu chi phí và thời gian chẩn đoán
+
+Summary:
+
+Anthrax is caused by Bacillus anthracis, a gram-positive spore-forming bacterium. It causes both toxemia and septicemia leading to death of the infected host. The development of rapid and sensitive method to detect bacteria directly from clinical and environmental samples is the most important aim for public health. In this study, we used a conventional PCR with specific primers PA5/PA8 and CAP1234/CAP1301 to detect B.anthracis DNA from clinical samples. Eight of 10 skin and vesicular fluid swabs were infected with B.anthracis by using conventional PCRs. The soil samples containing at least 103 spore/ gram were detected by singlex PCR of the chromosomal Ba 813 . Therefore, this rapid and sensitive PCR should be used to analyse clinical and environmental samples for the detection of anthrax as required by biosafety legislation resulting in saving time and cost.
+
+File nội dung:
+
+yhdp_origin155_8_2012.pdf
+

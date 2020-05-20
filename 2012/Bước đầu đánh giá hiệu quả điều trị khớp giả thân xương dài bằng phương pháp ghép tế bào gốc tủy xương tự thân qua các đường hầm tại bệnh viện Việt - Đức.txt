@@ -1,0 +1,28 @@
+<page>
+99
+</page>
+
+<number>
+Tập XXII, số 7 (134) 2012
+</number>
+
+<tiêu đề>
+Bước đầu đánh giá hiệu quả điều trị khớp giả thân xương dài bằng phương pháp ghép tế bào gốc tủy xương tự thân qua các đường hầm tại bệnh viện Việt - Đức
+<tiêu đề>
+
+<title>
+Evaluate the effect of percutaneous drilling and autologous bone marrow derived stem cells grafting on bone healing of the long bone diaphyseal nonunions in Vietduc hospital
+</title>
+
+<tác giả>
+Ngô Bá Toàn, Nguyễn Mạnh Khánh, Trần Đình Chiến, Nguyễn Đắc Nghĩa, Lê Xuân Hải, Nguyễn Anh Trí
+</tác giả>
+
+<tóm tắt>
+Mục tiêu: Đánh giá hiệu quả của ghép khối tế bào gốc tuỷ xương tự thân tới quá trình liền xương trong điều trị khớp giả thân xương dài. Đối tượng và phương pháp nghiên cứu: Từ tháng 1/2009 đến tháng 11/2011, tại Viện Chấn thương Chỉnh hình, BV Việt Đức và Khoa Miễn dịch-di truyền & sinh học phân tử, Viện Huyết học truyền máu TƯ, 41 bệnh nhân khớp giả thân xương dài được ghép khối tế bào gốc tuỷ xương tự thân vào ổ gãy qua các đường hầm khoan xuyên ổ khớp giả; đánh giá kết quả liền xương và mối liên quan với số lượng tế bào tuỷ xương, tế bào gốc CD34+, CD73+. Kết quả: Không có biến chứng tại nơi lấy và ghép tuỷ xương. Tỷ lệ liền xương 90,24% (37/41 bệnh nhân) với thời gian theo dõi trung bình 24 tháng. Trung bình dịch tủy xương sau tách có 12,52 ± 8,17 x106 tế bào gốc CD34+ và 9,73 ± 3,21 x106 tế bào gốc CD73+ ,được ghép cho bệnh nhân. Có mối liên quan giữa số lượng tế bào gốc với mức độ can xương. Kết luận: Ghép tế bào gốc tuỷ xương tự thân qua các đường hầm điều trị khớp giả thân xương chày là phương pháp ít xâm lấn, đơn giản, an toàn và hiệu quả với tỷ lệ liền xương cao
+</tóm tắt>
+
+<summary>
+Objectives: to evaluate the effect of percutaneous autologous bone marrow derived stem cells grafting to treat the long bone diaphyseal nonunions. Materials and methods: from January 2009 to November 2011, 41 patients with nonunions of long bone were treated with percutaneous drilling and autologous bone marrow derived stem cells grafting. They were evaluated the healing result and the relation with the number of bone marrow cells: CD34+, CD 73+ stem cells in Institute of Orthopaedic-Traumatology, VietDuc Hospital and Department of Immunology-Cytogenetic & Molecular Biology National Institute of Hematology and Blood Transfusion of Vietnam. Results: None of the patients had post-op complications. Bone union was obtained in 37 patients (90,24%) at an average of 24 months follow up. The bone marrow grafts used for these patients contained a mean of 12,45±8,17 x106 CD34(+) stem cells and 9,73 ± 3,21 x106 CD73(+). There was a positive correlation between the time healing and callus level and the number of stem cells in the graft. Conclusions: Percutaneous autologous bone marrow derived stem cells grafting is a minimally invasive alternative, effective and safe method for the treatment of the long bone diaphyseal nonunions with the comparative bone healing rate.
+</summary>
+
